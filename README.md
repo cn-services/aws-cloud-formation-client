@@ -1,5 +1,11 @@
 # AWS POC #
 
+[![](https://img.shields.io/github/license/jnonino/aws-cloud-formation-client)](https://github.com/jnonino/aws-cloud-formation-client)
+[![](https://img.shields.io/github/issues/jnonino/aws-cloud-formation-client)](https://github.com/jnonino/aws-cloud-formation-client)
+[![](https://img.shields.io/github/issues-closed/jnonino/aws-cloud-formation-client)](https://github.com/jnonino/aws-cloud-formation-client)
+[![](https://img.shields.io/github/languages/code-size/jnonino/aws-cloud-formation-client)](https://github.com/jnonino/aws-cloud-formation-client)
+[![](https://img.shields.io/github/repo-size/jnonino/aws-cloud-formation-client)](https://github.com/jnonino/aws-cloud-formation-client)
+
 ## Building ##
 
 In order to build this project, run the following command:
